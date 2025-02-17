@@ -3,18 +3,18 @@ feather.replace();
 
 // Categories data
 const categories = [
-    { id: 1, name: 'Lehenga', image: "image/lehenga.jpg" },
-    { id: 2, name: 'Anarkali', image: 'image/anarkali.jpg' },
-    { id: 3, name: 'Gowns', image: 'image/goun.jpg' },
-    { id: 4, name: 'Sarees', image: 'image/saare.jpg' },
-    { id: 5, name: 'Plazo', image: 'image/plazo.jpg' },
-    { id: 6, name: 'Traditional', image: 'image/traditional.jpg' },
-    { id: 7, name: 'Western', image: 'image/western.jpg' },
-    { id: 8, name: 'Jump Suit', image: 'image/jumpsuit.jpg' },
-    { id: 9, name: 'Suits & Blazers', image: 'image/suits and blazers.jpg' },
-    { id: 10, name: 'Kurta', image: 'image/kurta.jpg' },
-    { id: 11, name: 'Sherwani', image: 'image/sherwani.jpg' },
-    { id: 12, name: 'Accessories', image: 'image/access.jpg' },
+    { id: 1, name: 'Lehenga', image: "lehenga.jpg" },
+    { id: 2, name: 'Anarkali', image: 'anarkali.jpg' },
+    { id: 3, name: 'Gowns', image: 'goun.jpg' },
+    { id: 4, name: 'Sarees', image: 'saare.jpg' },
+    { id: 5, name: 'Plazo', image: 'plazo.jpg' },
+    { id: 6, name: 'Traditional', image: 'traditional.jpg' },
+    { id: 7, name: 'Western', image: 'western.jpg' },
+    { id: 8, name: 'Jump Suit', image: 'jumpsuit.jpg' },
+    { id: 9, name: 'Suits & Blazers', image: 'suits and blazers.jpg' },
+    { id: 10, name: 'Kurta', image: 'kurta.jpg' },
+    { id: 11, name: 'Sherwani', image: 'sherwani.jpg' },
+    { id: 12, name: 'Accessories', image: 'access.jpg' },
 ];
 
 // Populate categories
